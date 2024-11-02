@@ -22,9 +22,7 @@
   <p>To get this project up and running locally, follow these steps:</p>
   <ol>
     <li><strong>Clone the Repository</strong>:</li>
-    <pre><code>git clone https://github.com/your-github-username/your-repo-name.git</code></pre>
-    <li><strong>Navigate to the Project Directory</strong>:</li>
-    <pre><code>cd your-repo-name</code></pre>
+    <pre><code>git clone https://github.com/tusharbharambe2005/Tic-Tak-Toe.git</code></pre>
     <li><strong>Open index.html in Your Browser</strong> to play the game.</li>
   </ol>
 
