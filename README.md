@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+  <title>Tic Tac Toe Game</title>
 </head>
 <body>
 
@@ -49,6 +49,9 @@
 
   <h2>🤝 Contributing</h2>
   <p>We welcome all contributions! Feel free to fork the repository, make improvements, and submit a pull request.</p>
+
+  <h2>🔗 Demo</h2>
+  <p>Check out the live version of the project here: <a href="https://tusharbharambe2005.github.io/Tic-Tak-Toe/" target="_blank">Tic Tac Toe Demo</a></p>
 
 </body>
 </html>
